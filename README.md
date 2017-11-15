@@ -1,14 +1,8 @@
-# sandbox
-```flow
-st=>start: Start:>http://www.google.com[blank]
-e=>end:>http://www.google.com
-op1=>operation: My Operation
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes
-or No?:>http://www.google.com
-io=>inputoutput: catch something...
+#Sandbox
 
-Doday Ive changed this line 171115
-Deleted something too
-``
+Now this sandbox Readme.md is reduced to nearly nothing
+Ive decided to remove gdocs2md-html_images as its not longer used 
+Deleted it in my branch. How will it reflect in the master
+
+End
 
